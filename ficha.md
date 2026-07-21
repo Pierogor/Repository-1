@@ -1,7 +1,7 @@
 # <<Ficha Markdown Pierogor>>
 
 ## 👤 Presentación
-Hola, soy **<<Piero Gomez>>** y esta es mi primera ficha en Markdown.
+Hola, soy **Piero Gomez** y esta es mi primera ficha en Markdown.
 
 ### 🎯 Objetivo de esta ficha
 ## ✅ Listas útiles
@@ -26,10 +26,10 @@ Hola, soy **<<Piero Gomez>>** y esta es mi primera ficha en Markdown.
 ## 🔗 Enlaces
 
 Mi página favorita para aprender:
-- <<Escala del universo.com>>
+- Escala del universo.com
 
 Un video recomendado:
-- <<Psicologia de una pesadilla>>
+- Psicologia de una pesadilla
 ## 🖼️ Imagen
 
 !Imagen de ejemplo https://th.bing.com/th/id/OIP.Nkld-p2-AIOooa4S7brmSAHaFj?w=231&h=180&c=7&r=0&o=7&pid=1.7&rm=3 
