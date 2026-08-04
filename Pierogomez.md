@@ -11,3 +11,4 @@ A continuacion tendremos disponibles todos los simbolos a disposicion en la conf
    
 ![imagen1](./images/IMAGEN4.png)
 
+![imagen1](./images/DIAGRAMAPIERO.png)
