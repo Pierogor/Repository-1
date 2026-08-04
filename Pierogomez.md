@@ -7,5 +7,6 @@ A continuacion tendremos disponibles todos los simbolos a disposicion en la conf
 5. ♢	Decisión
 6. ⏢	Proceso Predefinido / Subrutina
 7. 🗄️ / 🛢️	Almacenamiento de Datos (Disco / Base de Datos)
-8. ⏥	Conector (Interno / Externo) 
+8. ⏥	Conector (Interno / Externo)
+   
 ![imagen1](./images/IMAGEN4.png)
