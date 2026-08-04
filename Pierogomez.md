@@ -10,3 +10,4 @@ A continuacion tendremos disponibles todos los simbolos a disposicion en la conf
 8. ⏥	Conector (Interno / Externo)
    
 ![imagen1](./images/IMAGEN4.png)
+
