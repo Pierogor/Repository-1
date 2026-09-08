@@ -1,0 +1,8 @@
+cuenta = float(input"ingrese el valor de la cuenta")
+propina= cuenta*0.15
+total= cuenta + propina
+individual= total/4
+
+print("total de la cuenta : ", total)
+print ("f"propina ={propina}")
+print ("valor individual a pagar ",individual,"pesos")
