@@ -1,0 +1,3 @@
+Como se puede ver en la imagen,las horas de uso se le solicitan al usuario con un input que es este: horas_Uso_Actuales = float(input("ingrese la cantidad de horas de uso actuales"))
+
+Posteriormente , se guarda en un diccionario llamado "nuevo_componente" en el que se les asocia una clave para guardarlos en un bloque de información general y no como datos aislados. 

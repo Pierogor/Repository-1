@@ -1,0 +1,5 @@
+Nota: 4.5
+Cumplimos con los requisitos del repositorio , sin embargo debemos aclarar que el sistema de reinicio de horas de los componentes fue agregado el dia de la entrega por desconocimiento propio , por lo mismo en las imágenes se puede apreciar que solo en la ultima se puede ver este sistema dentro del código. El resto de requisitos fueron cumplidos y adjuntados en el repositorio a la hora establecida por el profe.
+
+Piero Gomez : 000607647
+Damian Barrera : 000492016
